@@ -60,8 +60,8 @@ const headerMenu = [
       {
         label: 'SHIVANG RAJ',
         value: 'animals',
-        route: '/entertainment/animals',
-        icon: 'tiger_EScqhyDJzR.png'
+        route: 'http://shivang.now.sh',
+        icon: ''
       }
     ]
   }
