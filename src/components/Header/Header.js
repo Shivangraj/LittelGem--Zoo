@@ -51,7 +51,7 @@ export default function Header() {
         <Toolbar>
           <GenericMenu menuItems={headerMenu} classes={classes} />
           <Typography variant="h5" className={classes.title}>
-            AlfaKidz
+            Littel gems
           </Typography>
           <IconButton edge="start" color="inherit" aria-label="open drawer" onClick={onShare}>
             <SearchIcon />
