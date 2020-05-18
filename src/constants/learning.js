@@ -36,7 +36,7 @@ const vegetables = [
     image: 'https://ik.imagekit.io/alfakidz/onion_LyqYoWcYhl.png'
   },
   {
-    name: 'Egg Plant',
+    name: 'Eggplant',
     image: 'https://ik.imagekit.io/alfakidz/eggplant_WBHRJIfPj-.png'
   },
   {
