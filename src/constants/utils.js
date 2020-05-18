@@ -48,6 +48,12 @@ const headerMenu = [
         value: 'countries',
         route: '/learning/countries',
         icon: 'onion_LyqYoWcYhl.png'
+      },
+       {
+        label: 'Vegetables',
+        value: 'vegetables',
+        route: '/learning/vegetables',
+        icon: 'onion_LyqYoWcYhl.png'
       }
     ]
   }
