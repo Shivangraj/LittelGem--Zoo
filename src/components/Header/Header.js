@@ -34,7 +34,7 @@ export default function Header() {
   const classes = useStyles();
   const onShare = async () => {
     const shareData = {
-      title: 'AlfaKidz',
+      title: 'Littel geams',
       text: 'Offline ready web app with Animals, Birds sound for kids',
       url: 'https://alfakidz.netlify.com/'
     };
