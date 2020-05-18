@@ -1,0 +1,12 @@
+@import 'src/styles/variables';
+
+.header {
+  height: 60px;
+  background-color: $orange-color;
+  .title {
+    padding: 10px;
+    color: white;
+    font-size: 2em;
+    font-weight: 600;
+  }
+}
