@@ -5,20 +5,7 @@ const headers = [
 ];
 
 const headerMenu = [
-  {
-    label: 'Entertainment',
-    name: 'entertainment',
-    route: '/entertainment',
-    icon: '',
-    submenu: [
-      {
-        label: 'Animals',
-        value: 'animals',
-        route: '/entertainment/animals',
-        icon: 'tiger_EScqhyDJzR.png'
-      }
-    ]
-  },
+ c
   {
     label: 'Learning',
     name: 'learning',
@@ -38,7 +25,7 @@ const headerMenu = [
         icon: 'red-apple_UOS0EbXIUI.png'
       },
       {
-        label: 'Vegetables',
+        lacel: 'Vegetables',
         value: 'vegetables',
         route: '/learning/vegetables',
         icon: 'onion_LyqYoWcYhl.png'
@@ -54,6 +41,34 @@ const headerMenu = [
         value: 'vegetables',
         route: '/learning/vegetables',
         icon: 'onion_LyqYoWcYhl.png'
+      }
+    ]
+  },
+     {
+    label: 'Entertainment',
+    name: 'entertainment',
+    route: '/entertainment',
+    icon: '',
+    submenu: [
+      {
+        label: 'Animals',
+        value: 'animals',
+        route: '/entertainment/animals',
+        icon: 'tiger_EScqhyDJzR.png'
+      }
+    ]
+  }, 
+    {
+    label: 'Credit',
+    name: 'entertainment',
+    route: '/entertainment',
+    icon: '',
+    submenu: [
+      {
+        label: 'Shivang Raj',
+        value: 'animals',
+        route: '/entertainment/animals',
+        icon: 'tiger_EScqhyDJzR.png'
       }
     ]
   }
