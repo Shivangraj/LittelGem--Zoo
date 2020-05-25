@@ -52,16 +52,13 @@ const headerMenu = [
     ]
   },
   {
-    label: 'Crdite',
+    label: 'SHIVANG RAJ',
     name: 'entertainment',
     route: '/entertainment',
     icon: '',
     submenu: [
       {
-        label: 'SHIVANG RAJ',
-        value: 'animals',
-        route: 'http://shivang.now.sh',
-        icon: ''
+        
       }
     ]
   }
