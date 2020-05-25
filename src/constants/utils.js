@@ -49,7 +49,8 @@ const headerMenu = [
         route: '/learning/countries',
         icon: 'onion_LyqYoWcYhl.png'
       }
-
+    ]
+  }
 ];
 
 const synthesisPrefix = 'This is, ';
