@@ -53,14 +53,6 @@ const headerMenu = [
   },
   {
     label: 'SHIVANG RAJ',
-    name: 'entertainment',
-    route: '/entertainment',
-    icon: '',
-    submenu: [
-      {
-        
-      }
-    ]
   }
 ];
 
