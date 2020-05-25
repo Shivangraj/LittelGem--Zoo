@@ -49,11 +49,7 @@ const headerMenu = [
         route: '/learning/countries',
         icon: 'onion_LyqYoWcYhl.png'
       }
-    ]
-  },
-  {
-    label: 'SHIVANG RAJ',
-  }
+
 ];
 
 const synthesisPrefix = 'This is, ';
